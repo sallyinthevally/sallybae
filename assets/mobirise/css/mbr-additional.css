@@ -1779,6 +1779,9 @@ body {
 .cid-qY49c68SSP H2 {
   color: #968a94;
 }
+.cid-qY49c68SSP B {
+  color: #968a94;
+}
 .cid-qY49cI0qBE {
   padding-top: 0px;
   padding-bottom: 45px;
@@ -1859,7 +1862,7 @@ body {
   color: #4f4943;
 }
 .cid-r7jXP1uM4A {
-  padding-top: 75px;
+  padding-top: 60px;
   padding-bottom: 15px;
   background-color: #f9f6f0;
 }
@@ -1871,7 +1874,7 @@ body {
 }
 .cid-qY4fdT4JHG {
   padding-top: 0px;
-  padding-bottom: 45px;
+  padding-bottom: 60px;
   background-color: #f9f6f0;
 }
 .cid-qY4fdT4JHG h4 {
@@ -1902,32 +1905,54 @@ body {
 }
 .cid-qY1aUCAt6a {
   padding-top: 60px;
-  padding-bottom: 45px;
-  background-color: #968a94;
+  padding-bottom: 0px;
+  background-color: #f9f6f0;
 }
 .cid-qY1aUCAt6a .mbr-text,
 .cid-qY1aUCAt6a blockquote {
   color: #767676;
 }
 .cid-qY1aUCAt6a .mbr-text P {
-  color: #ffffff;
+  color: #4f4943;
+  text-align: center;
 }
-.cid-qY1b832Ic3 {
-  padding-top: 120px;
-  padding-bottom: 120px;
-  background-image: url("../../../assets/images/travelimage2-2000x1333.jpg");
+.cid-r8oeLgTHCd {
+  padding-top: 15px;
+  padding-bottom: 15px;
+  background-color: #f9f6f0;
 }
-.cid-qY1bm24Oge {
-  padding-top: 45px;
-  padding-bottom: 45px;
-  background-color: #ffffff;
+.cid-r8oeLgTHCd .line {
+  background-color: #968a94;
+  color: #968a94;
+  align: center;
+  height: 2px;
+  margin: 0 auto;
 }
-.cid-qY1bm24Oge .mbr-text,
-.cid-qY1bm24Oge blockquote {
+.cid-r8oeLgTHCd .section-text {
+  padding: 2rem 0;
+}
+.cid-r8oeLgTHCd .inner-container {
+  margin: 0 auto;
+}
+@media (max-width: 768px) {
+  .cid-r8oeLgTHCd .inner-container {
+    width: 100% !important;
+  }
+}
+.cid-r8oeLgTHCd .section-text B {
+  color: #4f4943;
+}
+.cid-r8ogbr2aCc {
+  padding-top: 0px;
+  padding-bottom: 60px;
+  background-color: #f9f6f0;
+}
+.cid-r8ogbr2aCc .mbr-text,
+.cid-r8ogbr2aCc blockquote {
   color: #767676;
 }
-.cid-qY1bm24Oge .mbr-text P {
-  color: #4f4943;
+.cid-r8ogbr2aCc .mbr-text {
+  text-align: center;
 }
 .cid-qY1byDa6tl {
   padding-top: 135px;
